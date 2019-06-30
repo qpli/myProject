@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef71fe12-f7a9-47b7-a666-b9d599e682e7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/lqp/bytedance/Main5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lqp/bytedance/UserHobby.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BookManager-master/BookManager-master-89bb9ba9efb87368abe42e9b674912cb2d7d9fcb/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BookManager-master/BookManager-master-89bb9ba9efb87368abe42e9b674912cb2d7d9fcb/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BookManager-master/BookManager-master-89bb9ba9efb87368abe42e9b674912cb2d7d9fcb/src/main/java/com/nowcoder/project/BookManagerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BookManager-master/BookManager-master-89bb9ba9efb87368abe42e9b674912cb2d7d9fcb/src/main/java/com/nowcoder/project/BookManagerApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BookManager-master/BookManager-master-89bb9ba9efb87368abe42e9b674912cb2d7d9fcb/src/test/java/com/nowcoder/project/BookManagerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BookManager-master/BookManager-master-89bb9ba9efb87368abe42e9b674912cb2d7d9fcb/src/test/java/com/nowcoder/project/BookManagerApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo_vhr/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo_vhr/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo_vhr/src/main/java/com/lqp/DemoVhrApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo_vhr/src/main/java/com/lqp/DemoVhrApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ncBookgit" beforeDir="false" afterPath="$PROJECT_DIR$/../ncBookgit" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../toutiao-master/toutiao-master/.idea/.name" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../toutiao-master/toutiao-master/.idea/compiler.xml" beforeDir="false" />
@@ -271,67 +274,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lqp/jianzhioffer/Main7.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lqp/jianzhioffer/Mian3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lqp/mythread/MyThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/tools/java/jdk_12/lib/src.zip!/java.base/java/lang/InterruptedException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/tools/java/jdk_12/lib/src.zip!/java.base/java/lang/Thread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="1307" column="24" lean-forward="true" selection-start-line="1307" selection-start-column="24" selection-end-line="1307" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lqp/mythread/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="jar://E:/tools/java/jdk_12/lib/src.zip!/java.base/java/util/concurrent/CountDownLatch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="178" column="22" lean-forward="true" selection-start-line="178" selection-start-column="22" selection-end-line="178" selection-end-column="22" />
+            <state relative-caret-position="3058">
+              <caret line="178" column="22" selection-start-line="178" selection-start-column="22" selection-end-line="178" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -339,8 +285,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/lqp/bytedance/Main1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+            <state relative-caret-position="132">
+              <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -348,11 +294,72 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lqp/bytedance/Main3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lqp/bytedance/Main4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="78" column="33" lean-forward="true" selection-start-line="78" selection-start-column="33" selection-end-line="78" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2047#2056#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lqp/bytedance/Main5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="211">
+              <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/lqp/bytedance/wendang.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="541">
+              <caret line="569" column="24" selection-start-line="569" selection-start-column="24" selection-end-line="569" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://E:/tools/java/jdk_12/lib/src.zip!/java.base/java/util/HashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="1049" column="25" lean-forward="true" selection-start-line="1049" selection-start-column="13" selection-end-line="1049" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lqp/bytedance/UserHobby.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="924">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/lqp/bytedance/Main2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+            <state relative-caret-position="273">
+              <caret line="33" column="15" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -363,7 +370,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://E:/tools/java/jdk_12/lib/src.zip!/java.base/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
+            <state relative-caret-position="28270">
               <caret line="1343" column="25" selection-start-line="1343" selection-start-column="25" selection-end-line="1343" selection-end-column="25" />
               <folding>
                 <element signature="e#24536#24537#0" expanded="true" />
@@ -392,15 +399,11 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/lqp/easy/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/lqp/easy/Main2.java" />
-        <option value="$PROJECT_DIR$/src/com/lqp/easy/Main3.java" />
-        <option value="$PROJECT_DIR$/src/com/lqp/easy/Main4.java" />
         <option value="$PROJECT_DIR$/src/com/lqp/easy/Main5.java" />
         <option value="$PROJECT_DIR$/src/com/lqp/easy/Main6.java" />
         <option value="$PROJECT_DIR$/src/com/lqp/easy/Main7.java" />
@@ -447,18 +450,15 @@
         <option value="$PROJECT_DIR$/src/com/lqp/mythread/Test.java" />
         <option value="$PROJECT_DIR$/src/com/lqp/bytedance/Main1.java" />
         <option value="$PROJECT_DIR$/src/com/lqp/bytedance/Main2.java" />
+        <option value="$PROJECT_DIR$/src/com/lqp/bytedance/Main3.java" />
+        <option value="$PROJECT_DIR$/src/com/lqp/bytedance/Main5.java" />
+        <option value="$PROJECT_DIR$/src/com/lqp/bytedance/UserHobby.java" />
+        <option value="$PROJECT_DIR$/src/com/lqp/bytedance/Main4.java" />
+        <option value="$PROJECT_DIR$/src/com/lqp/bytedance/wendang.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="713" />
     <option name="width" value="734" />
     <option name="height" value="867" />
@@ -469,34 +469,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
-              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
-              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
-              <item name="com.lqp" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
-              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
-              <item name="com.lqp" type="1f31426a:PackageElementNode" />
-              <item name="bytedance" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
-              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
-              <item name="com.lqp" type="1f31426a:PackageElementNode" />
-              <item name="mytest" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -527,10 +499,33 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="myLeetCode" type="58d84e3e:PackageViewProjectNode" />
+              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="myLeetCode" type="58d84e3e:PackageViewProjectNode" />
+              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
+              <item name="com.lqp" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="myLeetCode" type="58d84e3e:PackageViewProjectNode" />
+              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
+              <item name="com.lqp" type="1f31426a:PackageElementNode" />
+              <item name="bytedance" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -550,7 +545,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main1 (1)">
+  <component name="RunManager" selected="Application.Main3">
     <configuration name="Main1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lqp.bytedance.Main1" />
       <module name="LeetCode" />
@@ -564,12 +559,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lqp.mytest.Main1" />
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lqp.jianzhioffer.Main2" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lqp.mytest.*" />
+          <option name="PATTERN" value="com.lqp.jianzhioffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -577,12 +572,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lqp.jianzhioffer.Main2" />
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lqp.bytedance.Main3" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lqp.jianzhioffer.*" />
+          <option name="PATTERN" value="com.lqp.bytedance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -657,20 +652,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Main1" />
       <item itemvalue="Application.Main2" />
       <item itemvalue="Application.Mian3" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Maven.[]" />
       <item itemvalue="Application.Main1 (1)" />
+      <item itemvalue="Application.Main3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main3" />
         <item itemvalue="Application.Main1 (1)" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Mian3" />
         <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.Main1" />
       </list>
     </recent_temporary>
   </component>
@@ -698,25 +693,26 @@
       <workItem from="1557286174332" duration="13332000" />
       <workItem from="1557557171358" duration="5161000" />
       <workItem from="1561706857788" duration="7252000" />
+      <workItem from="1561778217047" duration="4415000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91256000" />
+    <option name="totallyTimeSpent" value="95671000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49318802" visible="true" weight="0.21776505" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49318802" visible="true" weight="0.1833811" />
       <window_info id="Structure" order="1" sideWeight="0.506812" side_tool="true" weight="0.49496645" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" weight="0.32885906" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928367" visible="true" weight="0.33109018" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.40463215" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928367" weight="0.33109018" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4037685" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -769,45 +765,16 @@
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lqp/bytedance/Main3.java</url>
+          <line>87</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/lqp/ct/Main4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/tools/java/jdk_12/lib/src.zip!/java.base/java/lang/StringLatin1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16324">
-          <caret line="800" column="24" selection-start-line="800" selection-start-column="24" selection-end-line="800" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/tools/java/jdk_12/lib/src.zip!/java.base/java/lang/StringUTF16.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="59" column="40" selection-start-line="59" selection-start-column="40" selection-end-line="59" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lqp/ct/Main5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lqp/easy/Main_numberReverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lqp/abstractAndInterface.java" />
     <entry file="file://$PROJECT_DIR$/src/com/lqp/easy/Main11.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1020,13 +987,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/tools/java/jdk_12/lib/src.zip!/java.base/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6688">
-          <caret line="338" column="48" selection-start-line="338" selection-start-column="44" selection-end-line="338" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lqp/javabasics/demo_classloader/ClassLoaderChecker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -1038,37 +998,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lqp/jianzhioffer/Main7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lqp/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lqp/jianzhioffer/Mian3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/tools/java/jdk_12/lib/src.zip!/java.base/java/lang/InterruptedException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqp/MyThread.java" />
     <entry file="jar://E:/tools/java/jdk_12/lib/src.zip!/java.base/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
@@ -1105,10 +1035,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/tools/java/jdk_12/lib/src.zip!/java.base/java/lang/Thread.java">
+    <entry file="jar://E:/tools/java/jdk_12/lib/src.zip!/java.base/java/io/PrintStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="1307" column="24" lean-forward="true" selection-start-line="1307" selection-start-column="24" selection-end-line="1307" selection-end-column="24" />
+        <state relative-caret-position="223">
+          <caret line="812" column="18" selection-start-line="812" selection-start-column="18" selection-end-line="812" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqp/jianzhioffer/Main7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqp/jianzhioffer/Mian3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
@@ -1119,23 +1066,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://E:/tools/java/jdk_12/lib/src.zip!/java.base/java/lang/InterruptedException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/tools/java/jdk_12/lib/src.zip!/java.base/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27148">
+          <caret line="1307" column="24" selection-start-line="1307" selection-start-column="24" selection-end-line="1307" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lqp/mythread/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
+        <state relative-caret-position="220">
           <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/tools/java/jdk_12/lib/src.zip!/java.base/java/io/PrintStream.java">
+    <entry file="jar://E:/tools/java/jdk_12/lib/src.zip!/java.base/java/util/concurrent/CountDownLatch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="812" column="18" selection-start-line="812" selection-start-column="18" selection-end-line="812" selection-end-column="18" />
+        <state relative-caret-position="3058">
+          <caret line="178" column="22" selection-start-line="178" selection-start-column="22" selection-end-line="178" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="jar://E:/tools/java/jdk_12/lib/src.zip!/java.base/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
+        <state relative-caret-position="28270">
           <caret line="1343" column="25" selection-start-line="1343" selection-start-column="25" selection-end-line="1343" selection-end-column="25" />
           <folding>
             <element signature="e#24536#24537#0" expanded="true" />
@@ -1144,30 +1105,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/tools/java/jdk_12/lib/src.zip!/java.base/java/util/concurrent/CountDownLatch.java">
+    <entry file="file://$PROJECT_DIR$/src/com/lqp/bytedance/Main2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="178" column="22" lean-forward="true" selection-start-line="178" selection-start-column="22" selection-end-line="178" selection-end-column="22" />
+        <state relative-caret-position="273">
+          <caret line="33" column="15" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lqp/bytedance/Main1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        <state relative-caret-position="132">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lqp/bytedance/Main2.java">
+    <entry file="file://$PROJECT_DIR$/src/com/lqp/bytedance/Main3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+        <state relative-caret-position="242">
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqp/bytedance/Main4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="78" column="33" lean-forward="true" selection-start-line="78" selection-start-column="33" selection-end-line="78" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2047#2056#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/tools/java/jdk_12/lib/src.zip!/java.base/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="1049" column="25" lean-forward="true" selection-start-line="1049" selection-start-column="13" selection-end-line="1049" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqp/bytedance/UserHobby.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqp/bytedance/Main5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqp/bytedance/wendang.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="569" column="24" selection-start-line="569" selection-start-column="24" selection-end-line="569" selection-end-column="24" />
         </state>
       </provider>
     </entry>

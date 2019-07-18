@@ -2,14 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef71fe12-f7a9-47b7-a666-b9d599e682e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/lqp/bytedance/Main5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lqp/bytedance/UserHobby.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lqp/jianzhioffer/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lqp/leetcodeinterview/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lqp/leetcodeinterview/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lqp/leetcodeinterview/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lqp/leetcodeinterview/SlidingWindows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lqp/leetcodeinterview/二叉搜索树第K大.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lqp/leetcodeinterview/二叉树的中序边路.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lqp/leetcodeinterview/公平洗牌.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lqp/leetcodeinterview/冒泡排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lqp/leetcodeinterview/堆排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lqp/leetcodeinterview/快速排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lqp/leetcodeinterview/插入排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lqp/leetcodeinterview/最大子序和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lqp/leetcodeinterview/最长不重复字串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lqp/leetcodeinterview/最长公共前缀.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lqp/leetcodeinterview/机器人的运动范围.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lqp/leetcodeinterview/第K大元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lqp/leetcodeinterview/计算器.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lqp/mythread/wait_notify/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lqp/mythread/wait_notify/Thread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lqp/mythread/wait_notify/Thread2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BookManager-master/BookManager-master-89bb9ba9efb87368abe42e9b674912cb2d7d9fcb/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BookManager-master/BookManager-master-89bb9ba9efb87368abe42e9b674912cb2d7d9fcb/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BookManager-master/BookManager-master-89bb9ba9efb87368abe42e9b674912cb2d7d9fcb/src/main/java/com/nowcoder/project/BookManagerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BookManager-master/BookManager-master-89bb9ba9efb87368abe42e9b674912cb2d7d9fcb/src/main/java/com/nowcoder/project/BookManagerApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BookManager-master/BookManager-master-89bb9ba9efb87368abe42e9b674912cb2d7d9fcb/src/test/java/com/nowcoder/project/BookManagerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BookManager-master/BookManager-master-89bb9ba9efb87368abe42e9b674912cb2d7d9fcb/src/test/java/com/nowcoder/project/BookManagerApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo_vhr/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo_vhr/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo_vhr/src/main/java/com/lqp/DemoVhrApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo_vhr/src/main/java/com/lqp/DemoVhrApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/lqp/bytedance/Main3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/lqp/bytedance/Main3.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ncBookgit" beforeDir="false" afterPath="$PROJECT_DIR$/../ncBookgit" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../toutiao-master/toutiao-master/.idea/.name" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../toutiao-master/toutiao-master/.idea/compiler.xml" beforeDir="false" />
@@ -274,107 +294,102 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/tools/java/jdk_12/lib/src.zip!/java.base/java/util/concurrent/CountDownLatch.java">
+        <entry file="file://$PROJECT_DIR$/src/com/lqp/leetcodeinterview/插入排序.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3058">
-              <caret line="178" column="22" selection-start-line="178" selection-start-column="22" selection-end-line="178" selection-end-column="22" />
+            <state relative-caret-position="273">
+              <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lqp/bytedance/Main1.java">
+        <entry file="file://$PROJECT_DIR$/src/com/lqp/leetcodeinterview/快速排序.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            <state relative-caret-position="154">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#334#335#0" expanded="true" />
+                <element signature="e#379#380#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lqp/bytedance/Main3.java">
+        <entry file="file://$PROJECT_DIR$/src/com/lqp/mythread/wait_notify/Thread1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+            <state relative-caret-position="88">
+              <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lqp/bytedance/Main4.java">
+        <entry file="file://$PROJECT_DIR$/src/com/lqp/mythread/wait_notify/Thread2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="78" column="33" lean-forward="true" selection-start-line="78" selection-start-column="33" selection-end-line="78" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2047#2056#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lqp/bytedance/Main5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+            <state relative-caret-position="119">
+              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/lqp/bytedance/wendang.java">
+        <entry file="file://$PROJECT_DIR$/src/com/lqp/mythread/wait_notify/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="541">
-              <caret line="569" column="24" selection-start-line="569" selection-start-column="24" selection-end-line="569" selection-end-column="24" />
+            <state relative-caret-position="374">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/tools/java/jdk_12/lib/src.zip!/java.base/java/util/HashMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="1049" column="25" lean-forward="true" selection-start-line="1049" selection-start-column="13" selection-end-line="1049" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lqp/bytedance/UserHobby.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="924">
-              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lqp/bytedance/Main2.java">
+        <entry file="file://$PROJECT_DIR$/src/com/lqp/leetcodeinterview/公平洗牌.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="273">
-              <caret line="33" column="15" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
+              <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lqp/leetcodeinterview/最长公共前缀.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lqp/leetcodeinterview/堆排序.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lqp/leetcodeinterview/Singleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/tools/java/jdk_12/lib/src.zip!/java.base/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+        <entry file="jar://E:/tools/java/jdk_12/lib/src.zip!/java.base/java/lang/Math.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28270">
-              <caret line="1343" column="25" selection-start-line="1343" selection-start-column="25" selection-end-line="1343" selection-end-column="25" />
+            <state relative-caret-position="363">
+              <caret line="966" column="17" selection-start-line="966" selection-start-column="17" selection-end-line="966" selection-end-column="17" />
               <folding>
-                <element signature="e#24536#24537#0" expanded="true" />
-                <element signature="e#24568#24569#0" expanded="true" />
+                <element signature="e#33242#33243#0" expanded="true" />
+                <element signature="e#33327#33328#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -404,31 +419,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/lqp/easy/Main5.java" />
-        <option value="$PROJECT_DIR$/src/com/lqp/easy/Main6.java" />
-        <option value="$PROJECT_DIR$/src/com/lqp/easy/Main7.java" />
-        <option value="$PROJECT_DIR$/src/com/lqp/easy/Main8.java" />
-        <option value="$PROJECT_DIR$/src/com/lqp/easy/Main9.java" />
-        <option value="$PROJECT_DIR$/src/com/lqp/easy/HanNuoTa.java" />
-        <option value="$PROJECT_DIR$/src/com/lqp/javabasics/IOTest1.java" />
-        <option value="$PROJECT_DIR$/src/com/lqp/javabasics/TestFileStream.java" />
-        <option value="$PROJECT_DIR$/src/com/lqp/javabasics/DetectEndOfFile.java" />
-        <option value="$PROJECT_DIR$/src/com/lqp/javabasics/TestDataStream.java" />
-        <option value="$PROJECT_DIR$/src/com/lqp/javabasics/TestObjectStreamForArray.java" />
-        <option value="$PROJECT_DIR$/src/com/lqp/easy/Main10.java" />
-        <option value="$PROJECT_DIR$/src/com/lqp/ct/Main1.java" />
-        <option value="$PROJECT_DIR$/src/com/lqp/ct/Main2.java" />
-        <option value="$PROJECT_DIR$/src/com/lqp/ct/Main3.java" />
-        <option value="$PROJECT_DIR$/src/com/lqp/ct/Main4.java" />
-        <option value="$PROJECT_DIR$/src/com/lqp/ct/Main5.java" />
-        <option value="$PROJECT_DIR$/src/com/lqp/easy/Main_numberReverse.java" />
-        <option value="$PROJECT_DIR$/src/com/lqp/easy/Main11.java" />
-        <option value="$PROJECT_DIR$/src/com/lqp/easy/Main12.java" />
-        <option value="$PROJECT_DIR$/src/com/lqp/easy/Main13.java" />
-        <option value="$PROJECT_DIR$/src/com/lqp/easy/Main14.java" />
-        <option value="$PROJECT_DIR$/src/com/lqp/easy/Main15.java" />
-        <option value="$PROJECT_DIR$/src/com/lqp/easy/Main16.java" />
-        <option value="$PROJECT_DIR$/src/com/lqp/abstractAndInterface/Ananimal.java" />
         <option value="$PROJECT_DIR$/src/com/lqp/abstractAndInterface/AnanimalAbstract.java" />
         <option value="$PROJECT_DIR$/src/com/lqp/abstractAndInterface/Cat.java" />
         <option value="$PROJECT_DIR$/src/com/lqp/nowcoder_zuo/dp/Money.java" />
@@ -452,15 +442,41 @@
         <option value="$PROJECT_DIR$/src/com/lqp/bytedance/Main2.java" />
         <option value="$PROJECT_DIR$/src/com/lqp/bytedance/Main3.java" />
         <option value="$PROJECT_DIR$/src/com/lqp/bytedance/Main5.java" />
-        <option value="$PROJECT_DIR$/src/com/lqp/bytedance/UserHobby.java" />
         <option value="$PROJECT_DIR$/src/com/lqp/bytedance/Main4.java" />
         <option value="$PROJECT_DIR$/src/com/lqp/bytedance/wendang.java" />
+        <option value="$PROJECT_DIR$/src/com/lqp/bytedance/UserHobby.java" />
+        <option value="$PROJECT_DIR$/src/com/lqp/leetcodeinterview/Main1.java" />
+        <option value="$PROJECT_DIR$/src/com/lqp/leetcodeinterview/Main2.java" />
+        <option value="$PROJECT_DIR$/src/com/lqp/leetcodeinterview/SlidingWindows.java" />
+        <option value="$PROJECT_DIR$/src/com/lqp/leetcodeinterview/平衡二叉树.java" />
+        <option value="$PROJECT_DIR$/src/com/lqp/jianzhioffer/Main4.java" />
+        <option value="$PROJECT_DIR$/src/com/lqp/leetcodeinterview/Atoi_8.java" />
+        <option value="$PROJECT_DIR$/src/com/lqp/leetcodeinterview/二叉搜索树第K大.java" />
+        <option value="$PROJECT_DIR$/src/com/lqp/leetcodeinterview/矩阵中的路径.java" />
+        <option value="$PROJECT_DIR$/src/com/lqp/leetcodeinterview/机器人的运动范围.java" />
+        <option value="$PROJECT_DIR$/src/com/lqp/leetcodeinterview/第K大元素.java" />
+        <option value="$PROJECT_DIR$/src/com/lqp/leetcodeinterview/最长不重复字串.java" />
+        <option value="$PROJECT_DIR$/src/com/lqp/leetcodeinterview/最大子序和.java" />
+        <option value="$PROJECT_DIR$/src/com/lqp/leetcodeinterview/计算器.java" />
+        <option value="$PROJECT_DIR$/src/com/lqp/leetcodeinterview/插入排序.java" />
+        <option value="$PROJECT_DIR$/src/com/lqp/leetcodeinterview/二叉树的中序边路.java" />
+        <option value="$PROJECT_DIR$/src/com/lqp/leetcodeinterview/冒泡排序.java" />
+        <option value="$PROJECT_DIR$/src/com/lqp/leetcodeinterview/公平洗牌.java" />
+        <option value="$PROJECT_DIR$/src/com/lqp/leetcodeinterview/单例模式.java" />
+        <option value="$PROJECT_DIR$/src/com/lqp/leetcodeinterview/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/com/lqp/leetcodeinterview/最长公共前缀.java" />
+        <option value="$PROJECT_DIR$/src/com/lqp/leetcodeinterview/堆排序.java" />
+        <option value="$PROJECT_DIR$/src/com/lqp/leetcodeinterview/快速排序.java" />
+        <option value="$PROJECT_DIR$/src/com/lqp/mythread/wait_notify/Thread1.java" />
+        <option value="$PROJECT_DIR$/src/com/lqp/mythread/wait_notify/Thread2.java" />
+        <option value="$PROJECT_DIR$/src/com/lqp/mythread/wait_notify/Main.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="713" />
-    <option name="width" value="734" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="841" />
     <option name="height" value="867" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -469,6 +485,48 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="myLeetCode" type="58d84e3e:PackageViewProjectNode" />
+              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="myLeetCode" type="58d84e3e:PackageViewProjectNode" />
+              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
+              <item name="com.lqp" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="myLeetCode" type="58d84e3e:PackageViewProjectNode" />
+              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
+              <item name="com.lqp" type="1f31426a:PackageElementNode" />
+              <item name="jianzhioffer" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="myLeetCode" type="58d84e3e:PackageViewProjectNode" />
+              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
+              <item name="com.lqp" type="1f31426a:PackageElementNode" />
+              <item name="leetcodeinterview" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="myLeetCode" type="58d84e3e:PackageViewProjectNode" />
+              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
+              <item name="com.lqp" type="1f31426a:PackageElementNode" />
+              <item name="mythread" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="myLeetCode" type="58d84e3e:PackageViewProjectNode" />
+              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
+              <item name="com.lqp" type="1f31426a:PackageElementNode" />
+              <item name="mythread" type="1f31426a:PackageElementNode" />
+              <item name="wait_notify" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -498,29 +556,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="myLeetCode" type="58d84e3e:PackageViewProjectNode" />
-              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="myLeetCode" type="58d84e3e:PackageViewProjectNode" />
-              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
-              <item name="com.lqp" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="myLeetCode" type="58d84e3e:PackageViewProjectNode" />
-              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
-              <item name="com.lqp" type="1f31426a:PackageElementNode" />
-              <item name="bytedance" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -528,7 +563,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../toutiao/toutiao-master/src" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
@@ -545,13 +580,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main3">
-    <configuration name="Main1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lqp.bytedance.Main1" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="机器人的运动范围" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lqp.leetcodeinterview.机器人的运动范围" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lqp.bytedance.*" />
+          <option name="PATTERN" value="com.lqp.leetcodeinterview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -559,12 +594,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lqp.jianzhioffer.Main2" />
+    <configuration name="公平洗牌" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lqp.leetcodeinterview.公平洗牌" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lqp.jianzhioffer.*" />
+          <option name="PATTERN" value="com.lqp.leetcodeinterview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -572,12 +607,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lqp.bytedance.Main3" />
+    <configuration name="最长公共前缀" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lqp.leetcodeinterview.最长公共前缀" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lqp.bytedance.*" />
+          <option name="PATTERN" value="com.lqp.leetcodeinterview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -585,12 +620,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mian3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lqp.jianzhioffer.Mian3" />
+    <configuration name="堆排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lqp.leetcodeinterview.堆排序" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lqp.jianzhioffer.*" />
+          <option name="PATTERN" value="com.lqp.leetcodeinterview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -598,13 +633,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lqp.mythread.Test" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lqp.mythread.wait_notify.Main" />
       <module name="LeetCode" />
-      <option name="VM_PARAMETERS" value="-Dfile.encoding=UTF-8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lqp.mythread.*" />
+          <option name="PATTERN" value="com.lqp.mythread.wait_notify.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="插入排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lqp.leetcodeinterview.插入排序" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lqp.leetcodeinterview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="冒泡排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lqp.leetcodeinterview.冒泡排序" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lqp.leetcodeinterview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="快速排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lqp.leetcodeinterview.快速排序" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lqp.leetcodeinterview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -652,20 +725,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Main2" />
-      <item itemvalue="Application.Mian3" />
-      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.机器人的运动范围" />
       <item itemvalue="Maven.[]" />
-      <item itemvalue="Application.Main1 (1)" />
-      <item itemvalue="Application.Main3" />
+      <item itemvalue="Application.公平洗牌" />
+      <item itemvalue="Application.最长公共前缀" />
+      <item itemvalue="Application.堆排序" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main3" />
-        <item itemvalue="Application.Main1 (1)" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Mian3" />
-        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.堆排序" />
+        <item itemvalue="Application.最长公共前缀" />
+        <item itemvalue="Application.公平洗牌" />
+        <item itemvalue="Application.机器人的运动范围" />
       </list>
     </recent_temporary>
   </component>
@@ -693,25 +766,28 @@
       <workItem from="1557286174332" duration="13332000" />
       <workItem from="1557557171358" duration="5161000" />
       <workItem from="1561706857788" duration="7252000" />
-      <workItem from="1561778217047" duration="4415000" />
+      <workItem from="1561778217047" duration="18376000" />
+      <workItem from="1562750906075" duration="11077000" />
+      <workItem from="1563112805633" duration="4727000" />
+      <workItem from="1563288872625" duration="9060000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95671000" />
+    <option name="totallyTimeSpent" value="134496000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49318802" visible="true" weight="0.1833811" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49318802" visible="true" weight="0.17979942" />
       <window_info id="Structure" order="1" sideWeight="0.506812" side_tool="true" weight="0.49496645" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" weight="0.32885906" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928367" weight="0.33109018" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928367" visible="true" weight="0.33109018" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4037685" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -775,218 +851,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/lqp/abstractAndInterface.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/lqp/easy/Main11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lqp/easy/Main12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lqp/easy/Main13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lqp/easy/Main14.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lqp/easy/Main15.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lqp/easy/Main16.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lqp/abstractAndInterface/Ananimal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lqp/abstractAndInterface/AnanimalAbstract.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/tools/java/jdk_12/lib/src.zip!/java.base/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2156">
-          <caret line="148" column="25" selection-start-line="148" selection-start-column="25" selection-end-line="148" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lqp/abstractAndInterface/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#424#425#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#485#486#0" expanded="true" />
-            <element signature="e#512#513#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lqp/nowcoder_zuo/dp/Money.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lqp/nowcoder_zuo/pc/Main1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lqp/easy/Main17.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/tools/java/jdk_12/lib/src.zip!/java.base/java/lang/ClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="520" column="15" selection-start-line="520" selection-start-column="15" selection-end-line="520" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lqp/javabasics/reflect/ReflectSample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="26" column="74" selection-start-line="26" selection-start-column="74" selection-end-line="26" selection-end-column="74" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lqp/javabasics/demo_classloader/Wali.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lqp/javabasics/reflect/Robot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lqp/javabasics/demo_classloader/MyClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lqp/javabasics/demo_classloader/LoadClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/tools/java/jdk_12/lib/src.zip!/java.base/java/util/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2288">
-          <caret line="137" column="20" selection-start-line="137" selection-start-column="20" selection-end-line="137" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lqp/easy/Main18.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/lqp/mytest/Main1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lqp/jianzhioffer/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lqp/jianzhioffer/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/tools/java/jdk_12/lib/src.zip!/java.base/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9042">
-          <caret line="457" column="16" selection-start-line="457" selection-start-column="16" selection-end-line="457" selection-end-column="16" />
-          <folding>
-            <element signature="e#6338#6339#0" expanded="true" />
-            <element signature="e#6406#6407#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/tools/java/jdk_12/lib/src.zip!/java.base/java/util/Objects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7172">
-          <caret line="371" column="29" selection-start-line="371" selection-start-column="29" selection-end-line="371" selection-end-column="29" />
-          <folding>
-            <element signature="e#3862#3863#0" expanded="true" />
-            <element signature="e#3913#3914#0" expanded="true" />
-            <element signature="e#13877#13878#0" expanded="true" />
-            <element signature="e#13945#13946#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/tools/java/jdk_12/lib/src.zip!/java.base/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1298">
-          <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lqp/javabasics/demo_classloader/ClassLoaderChecker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -1013,17 +877,6 @@
           <folding>
             <element signature="e#3513#3514#0" expanded="true" />
             <element signature="e#3571#3572#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/tools/java/jdk_12/lib/src.zip!/java.base/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="768" column="59" selection-start-line="768" selection-start-column="59" selection-end-line="768" selection-end-column="59" />
-          <folding>
-            <element signature="e#33242#33243#0" expanded="true" />
-            <element signature="e#33327#33328#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1150,16 +1003,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lqp/bytedance/UserHobby.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="924">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lqp/bytedance/Main5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="211">
@@ -1169,8 +1012,252 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lqp/bytedance/wendang.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret line="569" column="24" selection-start-line="569" selection-start-column="24" selection-end-line="569" selection-end-column="24" />
+        <state relative-caret-position="7722">
+          <caret line="351" column="9" selection-start-line="351" selection-start-column="9" selection-end-line="351" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqp/bytedance/UserHobby.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1430">
+          <caret line="67" column="36" selection-start-line="67" selection-start-column="36" selection-end-line="67" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqp/leetcodeinterview/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqp/leetcodeinterview/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/tools/java/jdk_12/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35112">
+          <caret line="1678" column="34" selection-start-line="1678" selection-start-column="34" selection-end-line="1678" selection-end-column="34" />
+          <folding>
+            <element signature="e#132657#132658#0" expanded="true" />
+            <element signature="e#132711#132712#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/tools/java/jdk_12/lib/src.zip!/java.base/java/lang/StringUTF16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9086">
+          <caret line="452" column="30" selection-start-line="452" selection-start-column="30" selection-end-line="452" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../牛客视频/2018牛客算法第四期（初级&amp;进阶）完整版本/牛客网 算法进阶班第4期课程（已完结）/课件 &amp; 代码/进阶班1、2节代码/advanced_class_02/Code_01_LeastRecentlyUsedCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqp/leetcodeinterview/SlidingWindows.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqp/jianzhioffer/Main4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqp/leetcodeinterview/Atoi_8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqp/leetcodeinterview/二叉搜索树第K大.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqp/leetcodeinterview/矩阵中的路径.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqp/leetcodeinterview/机器人的运动范围.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqp/leetcodeinterview/平衡二叉树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqp/leetcodeinterview/第K大元素.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqp/leetcodeinterview/最长不重复字串.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqp/leetcodeinterview/二叉树的中序边路.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqp/leetcodeinterview/最大子序和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqp/leetcodeinterview/计算器.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqp/leetcodeinterview/冒泡排序.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" selection-start-line="2" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/tools/java/jdk_12/lib/src.zip!/java.base/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2420">
+          <caret line="137" column="36" selection-start-line="137" selection-start-column="36" selection-end-line="137" selection-end-column="36" />
+          <folding>
+            <element signature="e#4455#4456#0" expanded="true" />
+            <element signature="e#4507#4508#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/tools/java/jdk_12/lib/src.zip!/java.base/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="966" column="17" selection-start-line="966" selection-start-column="17" selection-end-line="966" selection-end-column="17" />
+          <folding>
+            <element signature="e#33242#33243#0" expanded="true" />
+            <element signature="e#33327#33328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqp/leetcodeinterview/公平洗牌.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqp/leetcodeinterview/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqp/leetcodeinterview/最长公共前缀.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqp/leetcodeinterview/堆排序.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqp/leetcodeinterview/插入排序.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqp/leetcodeinterview/快速排序.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqp/mythread/wait_notify/Thread1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqp/mythread/wait_notify/Thread2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqp/mythread/wait_notify/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
